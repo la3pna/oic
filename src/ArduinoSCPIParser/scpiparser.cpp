@@ -26,7 +26,7 @@ SOFTWARE.
 #include <ctype.h>
 
 #include <Arduino.h>
-#include <WProgram.h>
+
 
 #include "scpiparser.h"
 
