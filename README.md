@@ -1,6 +1,8 @@
 Open Instrument Control
 =======================
 
+Forked from: https://github.com/LachlanGunn/oic
+
 The goal of this project is to develop an embedded-side software stack for
 instrument control.  The initial target will be the Arduino platform, however
 the goal is to eventually provide support for at least 8/16/32-bit PIC, AVR,
