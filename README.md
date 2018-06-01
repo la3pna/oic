@@ -1,7 +1,7 @@
 Open Instrument Control
 =======================
 
-Forked from: https://github.com/LachlanGunn/oic
+Forked from: https://github.com/LachlanGunn/oic (deprecated?)
 
 The goal of this project is to develop an embedded-side software stack for
 instrument control.  The initial target will be the Arduino platform, however
